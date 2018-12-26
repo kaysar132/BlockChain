@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "To Kill a Mockingbird",
+    "picture": "images/0.jpg"
+  },
+  {
+    "id": 1,
+    "name": "1984 by George Orwell",
+    "picture": "images/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Lord of the Rings",
+    "picture": "images/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Great Gatsby",
+    "picture": "images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pride and Prejudice",
+    "picture": "images/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Book Thief",
+    "picture": "images/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Hobbit",
+    "picture": "images/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Little Women",
+    "picture": "images/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Fahrenheit 451",
+    "picture": "images/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jane Eyre",
+    "picture": "images/9.jpg"
+  }
+]

@@ -1,0 +1,32 @@
+h1{
+	text-align: center;
+	color: white;
+}
+
+#booksRow{
+	text-align: center;
+	font-style: italic;
+	color: red;
+}
+
+.img-rounded{
+	max-height: 300px;
+	max-width: 200px;
+}
+
+.backg{
+	background-image: url("../images/bg.jpg");
+}
+
+.btn-borrow{
+	width: 100px;
+	height: 30px;
+	font-size: 15px;
+	border-radius: 20px;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: rgb(255,228,196);
+	background-color: rgb(255,248,220);
+	outline: none;
+}
+
